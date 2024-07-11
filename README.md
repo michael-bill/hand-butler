@@ -17,5 +17,5 @@ pip install -r requirements.txt
 
 Run.
 ```bash
-sudo python3 ./src/main.py
+sudo python main.py
 ```
